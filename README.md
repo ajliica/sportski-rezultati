@@ -1,4 +1,4 @@
-# Java Fudbalska Konzolna Aplikacija ⚽
+# Java Fudbalska Konzolna Aplikacija 
 
 Ovaj projekat predstavlja **Java konzolnu aplikaciju** koja simulira osnovni fudbalski sistem. 
 Projekat je edukativnog karaktera i fokusiran je na **objektno-orijentisano programiranje (OOP)**, bez upotrebe baze podataka ili backend-a.  
